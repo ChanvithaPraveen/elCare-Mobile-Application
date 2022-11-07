@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "978538717562",
+    "project_id": "elcareapplication",
+    "storage_bucket": "elcareapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978538717562:android:ad2577bda9f7d8a5cab6c3",
+        "android_client_info": {
+          "package_name": "com.example.elcare_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978538717562-4hk9ojjfohsvvitri10jku8hh4nainb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.elcare_application",
+            "certificate_hash": "eee6e34468fdb3598523d8a0e217d55234463ba5"
+          }
+        },
+        {
+          "client_id": "978538717562-gaobvljvt26c53h72baks7bs59s9ju9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBromCtkEGpEKR24ET1lM5xRDP7lJnJMMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978538717562-gaobvljvt26c53h72baks7bs59s9ju9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

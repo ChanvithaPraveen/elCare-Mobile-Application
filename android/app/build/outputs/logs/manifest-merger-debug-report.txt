@@ -1,0 +1,714 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:1:1-41:12
+MERGED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:1:1-41:12
+MERGED from [:cloud_firestore] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_auth] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:image_picker] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-28:12
+MERGED from [:path_provider_android] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_dtmf] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_dtmf\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_facebook_auth] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_facebook_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_android] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:audioplayers] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\audioplayers\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:light] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\light\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_ringtone_player] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_ringtone_player\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:google_sign_in] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:android_alarm_manager] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\android_alarm_manager\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_dnd] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_dnd\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_phone_direct_caller] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_phone_direct_caller\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9908e2d101daadf58c967e1e20bee718\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-login:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\2ea9a1acd0b54f44f463722f51ff756a\jetified-facebook-login-12.1.0\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:21:1-52:12
+MERGED from [com.facebook.android:facebook-core:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4f16a6958cfeb3c79ef17c9e60b5ba35\jetified-facebook-core-12.1.0\AndroidManifest.xml:21:1-60:12
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:17:1-83:12
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\bf0b1214d21c1615f4d4ef35d4ce099c\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\f19ad4e9b2f470bf501aa47636013a02\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\153848910fdfc8bc4088ebc0b0b320c1\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\eed6be46054f296cc81a62e81fdcac1a\jetified-firebase-common-20.0.0\AndroidManifest.xml:15:1-40:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\b6fa72f4c67d516636a12f682ca6a02e\exifinterface-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4adec7bee7ffb2a7a0fb99a5f37f0c86\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\8aa42a936248bdcb74e42771cfafde33\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\a5f63d374cd3166e08a694ade95e8401\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\65ea2ee9c7e2079c7744218eb56a6d47\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\27f69d95c522b034b1894472b469a91a\media-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9764a2b7f513754e258c941d6f5c5c92\jetified-play-services-auth-16.0.1\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\981d6d74e65dedd2e6b10d69ff5263e3\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\d00ebd041099bb7d481ab7772155cd08\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\2bfb698839bee020418577e9bd0719ca\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\5795d9a2d696f9d825d3b9340252b954\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\a6c39368265fdb7c1baae51a49c926b0\jetified-play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\1d33909f234eca3bfc376f0165f9dc82\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\a925e19bb6b95f993e3ffa4e166158f8\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\91944627e758f1ae1e65b095ec892f73\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\953d28e0f6d7497cadc4a63c53ee05fe\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\87fb6c1229d52fad0de9f26fff52a6b7\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\c120c4d032149b3b5a1e94b9f01dca3b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\feff8f13a1b1665d2db59876c232c133\jetified-play-services-basement-17.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\703539ba594bdd28192525af11b168b6\fragment-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\016fce11a78547b336fa13a206ecb9f0\jetified-activity-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\5adb5893df4410320a1110529daf6c3c\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\728c458305806bd6d95fe0f18f36acbd\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\f3a8abd2fec5a478a3a00c354ef3c9a7\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\cd4f31d961e537b78de4379d988fc930\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4304d5178ba2b5ac5f65d325062d0f23\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\7b7f33ac58fc3ea5129971e2f6d226c6\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\6777dec6a7fe0f1e6a97445573260ec4\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\68a2746446949255126b17bf985b316c\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\a3f938262f26c49ffb82e15be70c01a5\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\0eb3c3bf69776f10b11effa28f97921f\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\f396126b85886d831155b8703be6d76a\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\016723486e2743216f1fb33d6006683a\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\6c8e9da2461e038f8f8a49e75c5a6432\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\84f72dc90c90109a6e687d511b6902c4\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\db1cb541dfcaa6bd47a481d76f80f893\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9baa40890607d01594fb333b868b76cf\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\85039b0608cc14edc6392701b7ce2285\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\12d32334c787565358be4bc1f3a09111\lifecycle-runtime-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\2fbadf804ec34d9f727539c342ac8303\jetified-lifecycle-viewmodel-savedstate-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49530796dd4a76b57832d43f7d58dd68\lifecycle-viewmodel-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\c4a7a45c13d116fce7d3b7959d24c322\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\0bf1b6afb331d7ca396f03e6de22b6f0\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\5117bcc3b994c8fb3be4b1906eeb40eb\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\bb00bf10b283a51a42bca7fcdb3a36a3\lifecycle-livedata-core-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\cf40bbe1b88ff495afa763ceb0650865\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [io.grpc:grpc-android:1.41.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4cc9fdeaebdb92823cad8f0657212d15\jetified-grpc-android-1.41.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\f74c813a7ee8d956fbe97c2708fc74c2\jetified-threetenabp-1.2.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\79c44cf3e99a0b1c32e05cf19a7f54db\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9b665cc624d78224f0ee2709f1601250\jetified-installreferrer-1.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\dfc73f35b9148ba802d7f591a84f6be5\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:1:1-74:12
+INJECTED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:1:1-74:12
+INJECTED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:1:1-74:12
+	package
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:2:5-45
+		INJECTED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:1:1-41:12
+		INJECTED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:1:1-41:12
+		INJECTED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:3:4-40:19
+MERGED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:3:4-40:19
+MERGED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:3:4-40:19
+MERGED from [:cloud_firestore] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:image_picker] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-26:19
+MERGED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-26:19
+MERGED from [com.facebook.android:facebook-login:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\2ea9a1acd0b54f44f463722f51ff756a\jetified-facebook-login-12.1.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\2ea9a1acd0b54f44f463722f51ff756a\jetified-facebook-login-12.1.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:29:5-50:19
+MERGED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:29:5-50:19
+MERGED from [com.facebook.android:facebook-core:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4f16a6958cfeb3c79ef17c9e60b5ba35\jetified-facebook-core-12.1.0\AndroidManifest.xml:28:5-58:19
+MERGED from [com.facebook.android:facebook-core:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4f16a6958cfeb3c79ef17c9e60b5ba35\jetified-facebook-core-12.1.0\AndroidManifest.xml:28:5-58:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\bf0b1214d21c1615f4d4ef35d4ce099c\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\bf0b1214d21c1615f4d4ef35d4ce099c\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\f19ad4e9b2f470bf501aa47636013a02\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\f19ad4e9b2f470bf501aa47636013a02\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\153848910fdfc8bc4088ebc0b0b320c1\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\153848910fdfc8bc4088ebc0b0b320c1\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\eed6be46054f296cc81a62e81fdcac1a\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\eed6be46054f296cc81a62e81fdcac1a\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9764a2b7f513754e258c941d6f5c5c92\jetified-play-services-auth-16.0.1\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9764a2b7f513754e258c941d6f5c5c92\jetified-play-services-auth-16.0.1\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\2bfb698839bee020418577e9bd0719ca\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\2bfb698839bee020418577e9bd0719ca\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\a6c39368265fdb7c1baae51a49c926b0\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\a6c39368265fdb7c1baae51a49c926b0\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\c120c4d032149b3b5a1e94b9f01dca3b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\c120c4d032149b3b5a1e94b9f01dca3b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\feff8f13a1b1665d2db59876c232c133\jetified-play-services-basement-17.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\feff8f13a1b1665d2db59876c232c133\jetified-play-services-basement-17.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\0eb3c3bf69776f10b11effa28f97921f\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\0eb3c3bf69776f10b11effa28f97921f\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\84f72dc90c90109a6e687d511b6902c4\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\84f72dc90c90109a6e687d511b6902c4\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\f74c813a7ee8d956fbe97c2708fc74c2\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\f74c813a7ee8d956fbe97c2708fc74c2\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9b665cc624d78224f0ee2709f1601250\jetified-installreferrer-1.0\AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9b665cc624d78224f0ee2709f1601250\jetified-installreferrer-1.0\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\0eb3c3bf69776f10b11effa28f97921f\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-login:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\2ea9a1acd0b54f44f463722f51ff756a\jetified-facebook-login-12.1.0\AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:4:9-43
+	android:icon
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:5:9-43
+	android:name
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:18:9-57
+activity#com.example.elcare_application.MainActivity
+ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:6:9-34:20
+MERGED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:6:9-34:20
+MERGED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:6:9-34:20
+	android:launchMode
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:8:13-43
+	android:hardwareAccelerated
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:11:13-47
+	android:windowSoftInputMode
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:12:13-55
+	android:configChanges
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:10:13-163
+	android:theme
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:9:13-47
+	android:name
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:7:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:17:13-20:17
+MERGED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:17:13-20:17
+MERGED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:17:13-20:17
+	android:resource
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:19:15-52
+	android:name
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:18:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:26:13-29:17
+MERGED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:26:13-29:17
+MERGED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:26:13-29:17
+	android:resource
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:28:15-61
+	android:name
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:27:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:32:27-74
+meta-data#flutterEmbedding
+ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:37:9-39:33
+MERGED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:37:9-39:33
+MERGED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:37:9-39:33
+	android:value
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:39:13-30
+	android:name
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml:38:13-44
+uses-sdk
+INJECTED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml
+MERGED from [:cloud_firestore] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_dtmf] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_dtmf\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_dtmf] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_dtmf\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_facebook_auth] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_facebook_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_facebook_auth] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_facebook_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:audioplayers] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\audioplayers\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-44
+MERGED from [:audioplayers] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\audioplayers\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-44
+MERGED from [:light] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\light\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:light] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\light\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_ringtone_player] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_ringtone_player\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_ringtone_player] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_ringtone_player\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:android_alarm_manager] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\android_alarm_manager\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:android_alarm_manager] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\android_alarm_manager\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_dnd] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_dnd\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_dnd] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_dnd\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_phone_direct_caller] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_phone_direct_caller\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_phone_direct_caller] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_phone_direct_caller\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9908e2d101daadf58c967e1e20bee718\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9908e2d101daadf58c967e1e20bee718\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.android:facebook-login:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\2ea9a1acd0b54f44f463722f51ff756a\jetified-facebook-login-12.1.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\2ea9a1acd0b54f44f463722f51ff756a\jetified-facebook-login-12.1.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:25:5-27:41
+MERGED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:25:5-27:41
+MERGED from [com.facebook.android:facebook-core:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4f16a6958cfeb3c79ef17c9e60b5ba35\jetified-facebook-core-12.1.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4f16a6958cfeb3c79ef17c9e60b5ba35\jetified-facebook-core-12.1.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\bf0b1214d21c1615f4d4ef35d4ce099c\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\bf0b1214d21c1615f4d4ef35d4ce099c\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\f19ad4e9b2f470bf501aa47636013a02\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\f19ad4e9b2f470bf501aa47636013a02\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\153848910fdfc8bc4088ebc0b0b320c1\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\153848910fdfc8bc4088ebc0b0b320c1\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\eed6be46054f296cc81a62e81fdcac1a\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\eed6be46054f296cc81a62e81fdcac1a\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\b6fa72f4c67d516636a12f682ca6a02e\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\b6fa72f4c67d516636a12f682ca6a02e\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4adec7bee7ffb2a7a0fb99a5f37f0c86\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4adec7bee7ffb2a7a0fb99a5f37f0c86\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\8aa42a936248bdcb74e42771cfafde33\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\8aa42a936248bdcb74e42771cfafde33\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\a5f63d374cd3166e08a694ade95e8401\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\a5f63d374cd3166e08a694ade95e8401\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\65ea2ee9c7e2079c7744218eb56a6d47\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\65ea2ee9c7e2079c7744218eb56a6d47\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\27f69d95c522b034b1894472b469a91a\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\27f69d95c522b034b1894472b469a91a\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9764a2b7f513754e258c941d6f5c5c92\jetified-play-services-auth-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9764a2b7f513754e258c941d6f5c5c92\jetified-play-services-auth-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\981d6d74e65dedd2e6b10d69ff5263e3\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\981d6d74e65dedd2e6b10d69ff5263e3\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\d00ebd041099bb7d481ab7772155cd08\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\d00ebd041099bb7d481ab7772155cd08\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\2bfb698839bee020418577e9bd0719ca\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\2bfb698839bee020418577e9bd0719ca\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\5795d9a2d696f9d825d3b9340252b954\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\5795d9a2d696f9d825d3b9340252b954\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\a6c39368265fdb7c1baae51a49c926b0\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\a6c39368265fdb7c1baae51a49c926b0\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\1d33909f234eca3bfc376f0165f9dc82\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\1d33909f234eca3bfc376f0165f9dc82\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\a925e19bb6b95f993e3ffa4e166158f8\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\a925e19bb6b95f993e3ffa4e166158f8\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\91944627e758f1ae1e65b095ec892f73\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\91944627e758f1ae1e65b095ec892f73\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\953d28e0f6d7497cadc4a63c53ee05fe\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\953d28e0f6d7497cadc4a63c53ee05fe\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\87fb6c1229d52fad0de9f26fff52a6b7\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\87fb6c1229d52fad0de9f26fff52a6b7\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\c120c4d032149b3b5a1e94b9f01dca3b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\c120c4d032149b3b5a1e94b9f01dca3b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\feff8f13a1b1665d2db59876c232c133\jetified-play-services-basement-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\feff8f13a1b1665d2db59876c232c133\jetified-play-services-basement-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\703539ba594bdd28192525af11b168b6\fragment-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\703539ba594bdd28192525af11b168b6\fragment-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\016fce11a78547b336fa13a206ecb9f0\jetified-activity-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\016fce11a78547b336fa13a206ecb9f0\jetified-activity-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\5adb5893df4410320a1110529daf6c3c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\5adb5893df4410320a1110529daf6c3c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\728c458305806bd6d95fe0f18f36acbd\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\728c458305806bd6d95fe0f18f36acbd\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\f3a8abd2fec5a478a3a00c354ef3c9a7\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\f3a8abd2fec5a478a3a00c354ef3c9a7\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\cd4f31d961e537b78de4379d988fc930\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\cd4f31d961e537b78de4379d988fc930\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4304d5178ba2b5ac5f65d325062d0f23\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4304d5178ba2b5ac5f65d325062d0f23\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\7b7f33ac58fc3ea5129971e2f6d226c6\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\7b7f33ac58fc3ea5129971e2f6d226c6\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\6777dec6a7fe0f1e6a97445573260ec4\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\6777dec6a7fe0f1e6a97445573260ec4\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\68a2746446949255126b17bf985b316c\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\68a2746446949255126b17bf985b316c\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\a3f938262f26c49ffb82e15be70c01a5\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\a3f938262f26c49ffb82e15be70c01a5\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\0eb3c3bf69776f10b11effa28f97921f\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\0eb3c3bf69776f10b11effa28f97921f\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\f396126b85886d831155b8703be6d76a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\f396126b85886d831155b8703be6d76a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\016723486e2743216f1fb33d6006683a\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\016723486e2743216f1fb33d6006683a\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\6c8e9da2461e038f8f8a49e75c5a6432\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\6c8e9da2461e038f8f8a49e75c5a6432\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\84f72dc90c90109a6e687d511b6902c4\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\84f72dc90c90109a6e687d511b6902c4\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\db1cb541dfcaa6bd47a481d76f80f893\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\db1cb541dfcaa6bd47a481d76f80f893\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9baa40890607d01594fb333b868b76cf\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9baa40890607d01594fb333b868b76cf\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\85039b0608cc14edc6392701b7ce2285\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\85039b0608cc14edc6392701b7ce2285\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\12d32334c787565358be4bc1f3a09111\lifecycle-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\12d32334c787565358be4bc1f3a09111\lifecycle-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\2fbadf804ec34d9f727539c342ac8303\jetified-lifecycle-viewmodel-savedstate-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\2fbadf804ec34d9f727539c342ac8303\jetified-lifecycle-viewmodel-savedstate-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49530796dd4a76b57832d43f7d58dd68\lifecycle-viewmodel-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49530796dd4a76b57832d43f7d58dd68\lifecycle-viewmodel-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\c4a7a45c13d116fce7d3b7959d24c322\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\c4a7a45c13d116fce7d3b7959d24c322\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\0bf1b6afb331d7ca396f03e6de22b6f0\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\0bf1b6afb331d7ca396f03e6de22b6f0\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\5117bcc3b994c8fb3be4b1906eeb40eb\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\5117bcc3b994c8fb3be4b1906eeb40eb\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\bb00bf10b283a51a42bca7fcdb3a36a3\lifecycle-livedata-core-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\bb00bf10b283a51a42bca7fcdb3a36a3\lifecycle-livedata-core-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\cf40bbe1b88ff495afa763ceb0650865\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\cf40bbe1b88ff495afa763ceb0650865\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [io.grpc:grpc-android:1.41.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4cc9fdeaebdb92823cad8f0657212d15\jetified-grpc-android-1.41.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.41.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4cc9fdeaebdb92823cad8f0657212d15\jetified-grpc-android-1.41.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\f74c813a7ee8d956fbe97c2708fc74c2\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\f74c813a7ee8d956fbe97c2708fc74c2\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\79c44cf3e99a0b1c32e05cf19a7f54db\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\79c44cf3e99a0b1c32e05cf19a7f54db\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9b665cc624d78224f0ee2709f1601250\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9b665cc624d78224f0ee2709f1601250\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\dfc73f35b9148ba802d7f591a84f6be5\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\dfc73f35b9148ba802d7f591a84f6be5\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:6:5-66
+MERGED from [:google_sign_in] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\bf0b1214d21c1615f4d4ef35d4ce099c\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\bf0b1214d21c1615f4d4ef35d4ce099c\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NOTIFICATION_POLICY
+ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:7:5-84
+	android:name
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:7:22-82
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:10:5-80
+MERGED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-81
+MERGED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:11:1-63
+	android:name
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:11:18-61
+service#io.flutter.plugins.androidalarmmanager.AlarmService
+ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:56:13-59:31
+	android:exported
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:59:5-29
+	android:permission
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:58:5-61
+	android:name
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:57:5-71
+receiver#io.flutter.plugins.androidalarmmanager.AlarmBroadcastReceiver
+ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:60:1-62:31
+	android:exported
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:62:5-29
+	android:name
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:61:5-81
+receiver#io.flutter.plugins.androidalarmmanager.RebootBroadcastReceiver
+ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:63:1-69:12
+	android:enabled
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:65:5-28
+	android:name
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:64:5-82
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:66:5-68:21
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:67:9-70
+	android:name
+		ADDED from D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\android\app\src\debug\AndroidManifest.xml:67:17-68
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:cloud_firestore] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\bf0b1214d21c1615f4d4ef35d4ce099c\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\bf0b1214d21c1615f4d4ef35d4ce099c\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\eed6be46054f296cc81a62e81fdcac1a\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\eed6be46054f296cc81a62e81fdcac1a\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:76:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\eed6be46054f296cc81a62e81fdcac1a\jetified-firebase-common-20.0.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\eed6be46054f296cc81a62e81fdcac1a\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:cloud_firestore] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
+ADDED from [:cloud_firestore] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:cloud_firestore] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:cloud_firestore] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-134
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
+ADDED from [:firebase_auth] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+uses-permission#android.permission.VIBRATE
+ADDED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-63
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-76
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-15:40
+	android:exported
+		ADDED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-97
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+ADDED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-25:20
+	android:exported
+		ADDED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-101
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-24:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:21:17-84
+	android:name
+		ADDED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:21:25-81
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:22:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:23:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:23:25-79
+uses-permission#android.permission.CALL_PHONE
+ADDED from [:flutter_phone_direct_caller] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_phone_direct_caller\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-69
+	android:name
+		ADDED from [:flutter_phone_direct_caller] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_phone_direct_caller\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-66
+uses-feature#android.hardware.telephony
+ADDED from [:flutter_phone_direct_caller] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_phone_direct_caller\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:flutter_phone_direct_caller] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_phone_direct_caller\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:flutter_phone_direct_caller] D:\Rusiru Anjana\Programming\3rd Sem Project\elCare\elcare_application\build\flutter_phone_direct_caller\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-50
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:30:9-33:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:32:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:31:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:34:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:34:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:35:9-49:20
+	tools:node
+		ADDED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:38:13-31
+	android:exported
+		ADDED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:36:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.${applicationId}+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:39:13-48:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.example.elcare_application+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:39:13-48:29
+action#android.intent.action.VIEW
+ADDED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:40:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:42:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:43:17-78
+	android:name
+		ADDED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:43:27-75
+data
+ADDED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:45:17-47:50
+	android:host
+		ADDED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:46:21-56
+	android:scheme
+		ADDED from [com.facebook.android:facebook-common:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\706d1db890ff7827f86f920c34b39866\jetified-facebook-common-12.1.0\AndroidManifest.xml:47:21-47
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4f16a6958cfeb3c79ef17c9e60b5ba35\jetified-facebook-core-12.1.0\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4f16a6958cfeb3c79ef17c9e60b5ba35\jetified-facebook-core-12.1.0\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4f16a6958cfeb3c79ef17c9e60b5ba35\jetified-facebook-core-12.1.0\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4f16a6958cfeb3c79ef17c9e60b5ba35\jetified-facebook-core-12.1.0\AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4f16a6958cfeb3c79ef17c9e60b5ba35\jetified-facebook-core-12.1.0\AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4f16a6958cfeb3c79ef17c9e60b5ba35\jetified-facebook-core-12.1.0\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4f16a6958cfeb3c79ef17c9e60b5ba35\jetified-facebook-core-12.1.0\AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4f16a6958cfeb3c79ef17c9e60b5ba35\jetified-facebook-core-12.1.0\AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4f16a6958cfeb3c79ef17c9e60b5ba35\jetified-facebook-core-12.1.0\AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4f16a6958cfeb3c79ef17c9e60b5ba35\jetified-facebook-core-12.1.0\AndroidManifest.xml:48:25-92
+receiver#com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4f16a6958cfeb3c79ef17c9e60b5ba35\jetified-facebook-core-12.1.0\AndroidManifest.xml:51:9-57:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4f16a6958cfeb3c79ef17c9e60b5ba35\jetified-facebook-core-12.1.0\AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4f16a6958cfeb3c79ef17c9e60b5ba35\jetified-facebook-core-12.1.0\AndroidManifest.xml:52:13-118
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4f16a6958cfeb3c79ef17c9e60b5ba35\jetified-facebook-core-12.1.0\AndroidManifest.xml:54:13-56:29
+action#com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4f16a6958cfeb3c79ef17c9e60b5ba35\jetified-facebook-core-12.1.0\AndroidManifest.xml:55:17-103
+	android:name
+		ADDED from [com.facebook.android:facebook-core:12.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4f16a6958cfeb3c79ef17c9e60b5ba35\jetified-facebook-core-12.1.0\AndroidManifest.xml:55:25-100
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\bf0b1214d21c1615f4d4ef35d4ce099c\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\bf0b1214d21c1615f4d4ef35d4ce099c\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:13:5-79
+MERGED from [io.grpc:grpc-android:1.41.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4cc9fdeaebdb92823cad8f0657212d15\jetified-grpc-android-1.41.0\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.41.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\4cc9fdeaebdb92823cad8f0657212d15\jetified-grpc-android-1.41.0\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\49dce84e663580cb650c1a7a49ff3c6a\jetified-firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\bf0b1214d21c1615f4d4ef35d4ce099c\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\bf0b1214d21c1615f4d4ef35d4ce099c\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\bf0b1214d21c1615f4d4ef35d4ce099c\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:21:17-111
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\eed6be46054f296cc81a62e81fdcac1a\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\eed6be46054f296cc81a62e81fdcac1a\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\eed6be46054f296cc81a62e81fdcac1a\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\eed6be46054f296cc81a62e81fdcac1a\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\eed6be46054f296cc81a62e81fdcac1a\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\eed6be46054f296cc81a62e81fdcac1a\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9764a2b7f513754e258c941d6f5c5c92\jetified-play-services-auth-16.0.1\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9764a2b7f513754e258c941d6f5c5c92\jetified-play-services-auth-16.0.1\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9764a2b7f513754e258c941d6f5c5c92\jetified-play-services-auth-16.0.1\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9764a2b7f513754e258c941d6f5c5c92\jetified-play-services-auth-16.0.1\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9764a2b7f513754e258c941d6f5c5c92\jetified-play-services-auth-16.0.1\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9764a2b7f513754e258c941d6f5c5c92\jetified-play-services-auth-16.0.1\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9764a2b7f513754e258c941d6f5c5c92\jetified-play-services-auth-16.0.1\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9764a2b7f513754e258c941d6f5c5c92\jetified-play-services-auth-16.0.1\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9764a2b7f513754e258c941d6f5c5c92\jetified-play-services-auth-16.0.1\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\a6c39368265fdb7c1baae51a49c926b0\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\a6c39368265fdb7c1baae51a49c926b0\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\a6c39368265fdb7c1baae51a49c926b0\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\a6c39368265fdb7c1baae51a49c926b0\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\feff8f13a1b1665d2db59876c232c133\jetified-play-services-basement-17.1.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\feff8f13a1b1665d2db59876c232c133\jetified-play-services-basement-17.1.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\feff8f13a1b1665d2db59876c232c133\jetified-play-services-basement-17.1.0\AndroidManifest.xml:24:13-58
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9b665cc624d78224f0ee2709f1601250\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Rusiru Gunaratne\.gradle\caches\transforms-2\files-2.1\9b665cc624d78224f0ee2709f1601250\jetified-installreferrer-1.0\AndroidManifest.xml:9:22-107

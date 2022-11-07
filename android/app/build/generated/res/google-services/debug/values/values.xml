@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">978538717562-gaobvljvt26c53h72baks7bs59s9ju9h.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">978538717562</string>
+    <string name="google_api_key" translatable="false">AIzaSyBromCtkEGpEKR24ET1lM5xRDP7lJnJMMU</string>
+    <string name="google_app_id" translatable="false">1:978538717562:android:ad2577bda9f7d8a5cab6c3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBromCtkEGpEKR24ET1lM5xRDP7lJnJMMU</string>
+    <string name="google_storage_bucket" translatable="false">elcareapplication.appspot.com</string>
+    <string name="project_id" translatable="false">elcareapplication</string>
+</resources>

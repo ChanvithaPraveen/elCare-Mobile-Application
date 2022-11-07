@@ -1,0 +1,1 @@
+enum MenuType { Personal, Medical}
