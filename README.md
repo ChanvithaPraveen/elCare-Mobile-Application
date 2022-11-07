@@ -43,16 +43,15 @@ This is the regular user page and there are the options to select which are pill
 - Pill Timer
 
 ![screenshot](assets/logo/pilltime.png)<br>
-<br>
 There are four buttons to go through each and every functionalities in the main pill time interface. First option is to add prescriptions. Here you can create whatever number of prescriptions you want to get in the day. In a single prescription, there are two dropdown lists to select your medicine variety and number of pills you want to take at that prescription time. After selecting the medicine and quantity, then click the add button to add that into your prescription. In the same way you can add other medicines also. Then select the time you want to notify by the alarm and days of the prescription valid. Then save it. The alarm will ring and at that time we can note it clearly.
 <br>
 When the alarm rings notification will appear to check whether user has taken medicines at the particular time. If he enters ‘yes’ on the popup ,related medicine quantities in the medicine store will update accordingly.
 <br>
 Second option of the pill timer is view prescription option. Here you can view all the prescriptions you have added related to a day. Medicine quantities related to a prescription is shown here. You can also set the pill timer alarm on or off. Finally there is another option to delete a particular prescription.
-<br>
+<br><br>
 ![screenshot](assets/logo/pilladd.png)<br>
 Third option of pill timer  is adding a new medicine. You should give name, quantity and a description for the medicine if you want. Also we have added some inbuilt medicine types for the ease of the user. You can also set the image for the medicine from the gallery or camera.
-<br>
+<br><br>
 ![screenshot](assets/logo/pillnotification.png)<br>
 Final option of the pill timer is the medicine store. Here you can see all the medicines and their remaining quantities. You can update the quantity through the add quantity option if you have bought new medicine. Number of medicines available in the medicine store is also shown. Another key feature in this is showing how many days remaining medicines will be enough.
 
@@ -78,10 +77,9 @@ The user can see whether the ambient light of the room is suitable for a good sl
 Now all is set, when the user presses the start button, it starts tracking the sleep until the timer is finished or the user pressed the stop button.
 Once the timer is finished or the stop button is pressed, the mobile’s currently set alarm will ring and the sleep data will be saved to the hive database.
 Then the user can see his sleep quality which is calculated using a three part equation.
-<br>
+<br><br>
 ![screenshot](assets/logo/sleepdata.png)
 <br>
-
 All the sleep data can be seen under the user profile screen’s medical tab. 
 This has two charts. One for sleep quality and other for sleep duration.
 When the upload button is pressed, all the sleep data is sent to the doctor via firebase.
